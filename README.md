@@ -195,7 +195,7 @@ The repository includes screenshots of:
 🎓 Learning Outcomes
 
 Through this project, I gained hands-on experience in:
-[29-07-2026 17:58] D P: - Designing relational databases
+- Designing relational databases
 - Writing efficient SQL queries
 - Working with multiple related tables
 - Applying advanced SQL concepts
